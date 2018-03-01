@@ -1,6 +1,6 @@
 # Unity
 
-#Teknik Informatika
+# Teknik Informatika
 
-#Yovie Latiawan Sudrajat
-#140810150051
+# Yovie Latiawan Sudrajat
+# 140810150051
